@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to Cascading
 
-You can use the [editor on GitHub](https://github.com/cwensel/cwensel.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Thanks for using Cascading.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Cascading project is transitioning from it's old home at http://www.cascading.org/ to here.
 
-### Markdown
+For versions 3.x and earlier, please visit the site above.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For versions 4.x and later, remain here.
 
-```markdown
-Syntax highlighted code block
+### Cascading 4.x
 
-# Header 1
-## Header 2
-### Header 3
+#### Releases
 
-- Bulleted
-- List
+Final releases will be on Maven Central.
 
-1. Numbered
-2. List
+WIP releases are on [Github Packages](https://github.com/cwensel?tab=packages&repo_name=cascading)
 
-**Bold** and _Italic_ and `Code` text
+#### Documentation
 
-[Link](url) and ![Image](src)
-```
+- Userguide
+  - tbd 
+- Javadoc
+  - [cascading-core](https://javadoc.io/doc/net.wensel/cascading-core)              - all Cascading Core class files
+  - [cascading-expression](https://javadoc.io/doc/net.wensel/cascading-expression)        - all Cascading Janino expression operations class files
+  - [cascading-nested-json](https://javadoc.io/doc/net.wensel/cascading-nested-json)       - all Cascading JSON operations
+  - [cascading-nested](https://javadoc.io/doc/net.wensel/cascading-neste)            - all Cascading base classes for nested data-type operations
+  - [cascading-local](https://javadoc.io/doc/net.wensel/cascading-local)             - all Cascading Local in-memory mode class files
+  - [cascading-hadoop2-common](https://javadoc.io/doc/net.wensel/cascading-hadoop2-common)    - all Cascading Hadoop 2.x common class files
+  - [cascading-hadoop2-io](https://javadoc.io/doc/net.wensel/cascading-hadoop2-io)        - all Cascading Hadoop 2.x HDFS and IO related class files
+  - [cascading-hadoop2-mr1](https://javadoc.io/doc/net.wensel/cascading-hadoop2-mr1)       - all Cascading Hadoop 2.x MapReduce mode class files
+  - [cascading-hadoop2-tez](https://javadoc.io/doc/net.wensel/cascading-hadoop2-tez)       - all Cascading Hadoop 2.x Tez mode class files
+  - [cascading-hadoop2-tez-stats](https://javadoc.io/doc/net.wensel/cascading-hadoop2-tez-stats) - all Cascading Tez YARN timeline server class files
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cwensel/cwensel.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
