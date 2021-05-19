@@ -10,6 +10,9 @@ For versions 4.x and later, remain here.
 
 ### Cascading 4.x
 
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/cwensel/cascading) 
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cwensel/cascading/wip-4.0)
+
 #### Releases
 
 Final releases will be on Maven Central.
