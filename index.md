@@ -29,6 +29,7 @@ WIP releases are on [Github Packages](https://github.com/cwensel?tab=packages&re
   - [cascading-nested-json](https://javadoc.io/doc/net.wensel/cascading-nested-json)       - all Cascading JSON operations
   - [cascading-nested](https://javadoc.io/doc/net.wensel/cascading-neste)            - all Cascading base classes for nested data-type operations
   - [cascading-local](https://javadoc.io/doc/net.wensel/cascading-local)             - all Cascading Local in-memory mode class files
+  - [cascading-local-hadoop2-io](https://javadoc.io/doc/net.wensel/cascading-local-hadoop2-io)   - all Cascading Local in-memory mode class files used with Hadoop
   - [cascading-hadoop2-common](https://javadoc.io/doc/net.wensel/cascading-hadoop2-common)    - all Cascading Hadoop 2.x common class files
   - [cascading-hadoop2-io](https://javadoc.io/doc/net.wensel/cascading-hadoop2-io)        - all Cascading Hadoop 2.x HDFS and IO related class files
   - [cascading-hadoop2-mr1](https://javadoc.io/doc/net.wensel/cascading-hadoop2-mr1)       - all Cascading Hadoop 2.x MapReduce mode class files
