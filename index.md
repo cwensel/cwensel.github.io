@@ -2,7 +2,7 @@
 
 Thanks for using Cascading.
 
-The Cascading project is transitioning from it's old home at http://www.cascading.org/ to here.
+The Cascading project is transitioning from it's old home at [http://www.cascading.org/](http://www.cascading.org/) to here.
 
 For versions 3.x and earlier, please visit the site above.
 
