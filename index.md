@@ -16,7 +16,7 @@ For versions 4.x and later, remain here.
 
 #### Releases
 
-Final releases will be on Maven Central.
+Final releases are on [Maven Central](https://search.maven.org/search?q=g:net.wensel).
 
 WIP releases are on [Github Packages](https://github.com/cwensel?tab=packages&repo_name=cascading)
 
