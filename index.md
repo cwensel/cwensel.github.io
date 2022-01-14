@@ -10,9 +10,17 @@ For versions 4.x and later, remain here.
 
 ### Cascading 4.x
 
-![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/cwensel/cascading) 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cwensel/cascading/wip-4.0?label=last+4.0+commit)
+* 4.0 is the current release branch
+* 4.1 is in progress, supports Hadoop 2.x
+* 4.5 is in progress, supports Hadoop 3.x
+
+![Maven Central)](https://img.shields.io/maven-central/v/net.wensel/cascading-core?label=maven-central%204.0&versionPrefix=4)
+
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/cwensel/cascading?label=lastest%20wip) 
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cwensel/cascading/wip-4.0?label=last+4.0+commit) 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cwensel/cascading/wip-4.1?label=last+4.1+commit)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cwensel/cascading/wip-4.5?label=last+4.5+commit)
 
 #### Releases
 
@@ -20,7 +28,7 @@ Final releases are on [Maven Central](https://search.maven.org/search?q=g:net.we
 
 WIP releases are on [Github Packages](https://github.com/cwensel?tab=packages&repo_name=cascading)
 
-#### Documentation
+#### 4.0 Documentation
 
 - Userguide
   - tbd 
