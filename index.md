@@ -10,9 +10,9 @@ For versions 4.x and later, remain here.
 
 ### Cascading 4.x
 
-* 4.0 is the current release branch
-* 4.1 is in progress, supports Hadoop 2.x
-* 4.5 is in progress, supports Hadoop 3.x
+* [4.0](https://github.com/cwensel/cascading/tree/4.0) is the current release branch
+* [wip-4.1](https://github.com/cwensel/cascading/tree/wip-4.1) is in progress, supports Hadoop 2.x
+* [wip-4.5](https://github.com/cwensel/cascading/tree/wip-4.5) is in progress, supports Hadoop 3.x
 
 ![Maven Central)](https://img.shields.io/maven-central/v/net.wensel/cascading-core?label=maven-central%204.0&versionPrefix=4)
 
