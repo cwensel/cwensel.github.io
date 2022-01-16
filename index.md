@@ -1,4 +1,4 @@
-## Cascading - An API for complex data processing
+## Cascading
 
 Thanks for using Cascading.
 
