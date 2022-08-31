@@ -44,10 +44,10 @@ WIP releases are on [Github Packages](https://github.com/cwensel?tab=packages&re
   - [cascading-local-neo4j](https://javadoc.io/doc/net.wensel/cascading-local-neo4j)   - all Cascading Local Neo4j class files
   - [cascading-local-s3](https://javadoc.io/doc/net.wensel/cascading-local-s3)   - all Cascading Local S3 class files
   - [cascading-local-splunk](https://javadoc.io/doc/net.wensel/cascading-local-splunk)   - all Cascading Local Splunk class files
-  - [cascading-hadoop3-common](https://javadoc.io/doc/net.wensel/cascading-hadoop3-common)    - all Cascading Hadoop 2.x common class files
-  - [cascading-hadoop3-io](https://javadoc.io/doc/net.wensel/cascading-hadoop3-io)        - all Cascading Hadoop 2.x HDFS and IO related class files
-  - [cascading-hadoop3-mr1](https://javadoc.io/doc/net.wensel/cascading-hadoop3-mr1)       - all Cascading Hadoop 2.x MapReduce mode class files
-  - [cascading-hadoop3-tez](https://javadoc.io/doc/net.wensel/cascading-hadoop3-tez)       - all Cascading Hadoop 2.x Tez mode class files
+  - [cascading-hadoop3-common](https://javadoc.io/doc/net.wensel/cascading-hadoop3-common)    - all Cascading Hadoop 3.x common class files
+  - [cascading-hadoop3-io](https://javadoc.io/doc/net.wensel/cascading-hadoop3-io)        - all Cascading Hadoop 3.x HDFS and IO related class files
+  - [cascading-hadoop3-mr1](https://javadoc.io/doc/net.wensel/cascading-hadoop3-mr1)       - all Cascading Hadoop 3.x MapReduce mode class files
+  - [cascading-hadoop3-tez](https://javadoc.io/doc/net.wensel/cascading-hadoop3-tez)       - all Cascading Hadoop 3.x Tez mode class files
   - [cascading-hadoop3-tez-stats](https://javadoc.io/doc/net.wensel/cascading-hadoop3-tez-stats) - all Cascading Tez YARN timeline server class files
   - [cascading-hadoop3-parquet](https://javadoc.io/doc/net.wensel/cascading-hadoop3-parquet) - all Cascading Parquet class files
   - [cascading-hadoop3-parquet-thrift](https://javadoc.io/doc/net.wensel/cascading-hadoop3-parquet-thrift) - all Cascading Parquet Thrift class files
