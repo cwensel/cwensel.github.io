@@ -10,7 +10,7 @@ For versions 4.x and later, remain here.
 
 ### Cascading 4.x
 
-* [4.0](https://github.com/cwensel/cascading/tree/4.0) is the current release branch
+* [4.1](https://github.com/cwensel/cascading/tree/4.1) is the current release Hadoop 2 stable branch
 * [wip-4.1](https://github.com/cwensel/cascading/tree/wip-4.1) is in progress, supports Hadoop 2.x
 * [wip-4.5](https://github.com/cwensel/cascading/tree/wip-4.5) is in progress, supports Hadoop 3.x
 
@@ -28,7 +28,7 @@ Final releases are on [Maven Central](https://search.maven.org/search?q=g:net.we
 
 WIP releases are on [Github Packages](https://github.com/cwensel?tab=packages&repo_name=cascading)
 
-#### 4.0 Documentation
+#### 4.1 Documentation
 
 - Userguide
   - tbd 
@@ -39,9 +39,15 @@ WIP releases are on [Github Packages](https://github.com/cwensel?tab=packages&re
   - [cascading-nested](https://javadoc.io/doc/net.wensel/cascading-neste)            - all Cascading base classes for nested data-type operations
   - [cascading-local](https://javadoc.io/doc/net.wensel/cascading-local)             - all Cascading Local in-memory mode class files
   - [cascading-local-hadoop2-io](https://javadoc.io/doc/net.wensel/cascading-local-hadoop2-io)   - all Cascading Local in-memory mode class files used with Hadoop
+  - [cascading-local-kafka](https://javadoc.io/doc/net.wensel/cascading-local-kafka)   - all Cascading Local Kafka class files
+  - [cascading-local-neo4j](https://javadoc.io/doc/net.wensel/cascading-local-neo4j)   - all Cascading Local Neo4j class files
+  - [cascading-local-s3](https://javadoc.io/doc/net.wensel/cascading-local-s3)   - all Cascading Local S3 class files
+  - [cascading-local-splunk](https://javadoc.io/doc/net.wensel/cascading-local-splunk)   - all Cascading Local Splunk class files
   - [cascading-hadoop2-common](https://javadoc.io/doc/net.wensel/cascading-hadoop2-common)    - all Cascading Hadoop 2.x common class files
   - [cascading-hadoop2-io](https://javadoc.io/doc/net.wensel/cascading-hadoop2-io)        - all Cascading Hadoop 2.x HDFS and IO related class files
   - [cascading-hadoop2-mr1](https://javadoc.io/doc/net.wensel/cascading-hadoop2-mr1)       - all Cascading Hadoop 2.x MapReduce mode class files
   - [cascading-hadoop2-tez](https://javadoc.io/doc/net.wensel/cascading-hadoop2-tez)       - all Cascading Hadoop 2.x Tez mode class files
   - [cascading-hadoop2-tez-stats](https://javadoc.io/doc/net.wensel/cascading-hadoop2-tez-stats) - all Cascading Tez YARN timeline server class files
+  - [cascading-hadoop2-parquet](https://javadoc.io/doc/net.wensel/cascading-hadoop2-parquet) - all Cascading Parquet class files
+  - [cascading-hadoop2-parquet-thrift](https://javadoc.io/doc/net.wensel/cascading-hadoop2-parquet-thrift) - all Cascading Parquet Thrift class files
 
