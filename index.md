@@ -39,12 +39,12 @@ WIP releases are on [Github Packages](https://github.com/cwensel?tab=packages&re
   - [cascading-nested-json](https://javadoc.io/doc/net.wensel/cascading-nested-json)       - all Cascading JSON operations
   - [cascading-nested](https://javadoc.io/doc/net.wensel/cascading-nested)            - all Cascading base classes for nested data-type operations
   - [cascading-local](https://javadoc.io/doc/net.wensel/cascading-local)             - all Cascading Local in-memory mode class files
-  - [cascading-local-hadoop2-io](https://javadoc.io/doc/net.wensel/cascading-local-hadoop3-io)   - all Cascading Local in-memory mode class files used with Hadoop
+  - [cascading-local-hadoop3-io](https://javadoc.io/doc/net.wensel/cascading-local-hadoop3-io)   - all Cascading Local in-memory mode class files used with Hadoop
   - [cascading-local-kafka](https://javadoc.io/doc/net.wensel/cascading-local-kafka)   - all Cascading Local Kafka class files
   - [cascading-local-neo4j](https://javadoc.io/doc/net.wensel/cascading-local-neo4j)   - all Cascading Local Neo4j class files
   - [cascading-local-s3](https://javadoc.io/doc/net.wensel/cascading-local-s3)   - all Cascading Local S3 class files
   - [cascading-local-splunk](https://javadoc.io/doc/net.wensel/cascading-local-splunk)   - all Cascading Local Splunk class files
-  - [cascading-hadoop3-common](https://javadoc.io/doc/net.wensel/cascading-hadoop2-common)    - all Cascading Hadoop 2.x common class files
+  - [cascading-hadoop3-common](https://javadoc.io/doc/net.wensel/cascading-hadoop3-common)    - all Cascading Hadoop 2.x common class files
   - [cascading-hadoop3-io](https://javadoc.io/doc/net.wensel/cascading-hadoop3-io)        - all Cascading Hadoop 2.x HDFS and IO related class files
   - [cascading-hadoop3-mr1](https://javadoc.io/doc/net.wensel/cascading-hadoop3-mr1)       - all Cascading Hadoop 2.x MapReduce mode class files
   - [cascading-hadoop3-tez](https://javadoc.io/doc/net.wensel/cascading-hadoop3-tez)       - all Cascading Hadoop 2.x Tez mode class files
