@@ -12,6 +12,7 @@ For versions 4.x and later, remain here.
 
 * [4.5](https://github.com/cwensel/cascading/tree/4.5) is the current release Hadoop 3.x stable branch
 * [4.1](https://github.com/cwensel/cascading/tree/4.1) is the current release Hadoop 2.x stable branch
+* [wip-4.6](https://github.com/cwensel/cascading/tree/wip-4.6) is in progress, supports Hadoop 3.x
 * [wip-4.5](https://github.com/cwensel/cascading/tree/wip-4.5) is in progress, supports Hadoop 3.x
 * [wip-4.1](https://github.com/cwensel/cascading/tree/wip-4.1) is in progress, supports Hadoop 2.x
 
@@ -22,6 +23,7 @@ For versions 4.x and later, remain here.
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cwensel/cascading/wip-4.0?label=last+4.0+commit) 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cwensel/cascading/wip-4.1?label=last+4.1+commit)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cwensel/cascading/wip-4.5?label=last+4.5+commit)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/cwensel/cascading/wip-4.6?label=last+4.6+commit)
 
 #### Releases
 
@@ -32,7 +34,7 @@ WIP releases are on [Github Packages](https://github.com/cwensel?tab=packages&re
 #### 4.5 Documentation
 
 - Userguide
-  - tbd 
+  - [http://www.cascading.org/](http://docs.cascading.org/cascading/3.3/userguide/)
 - Javadoc
   - [cascading-core](https://javadoc.io/doc/net.wensel/cascading-core)              - all Cascading Core class files
   - [cascading-expression](https://javadoc.io/doc/net.wensel/cascading-expression)        - all Cascading Janino expression operations class files
