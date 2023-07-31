@@ -8,7 +8,7 @@ For versions 3.x and earlier, please visit the site above (these releases are un
 
 For versions 4.x and later, remain here (https://github.com/cwensel/cascading).
 
-Cascading was created by and is still supported and maintained by [https://chris.wensel.net](Chris K Wensel).
+Cascading was created by and is still supported and maintained by [Chris K Wensel](https://chris.wensel.net).
 
 [Support this project](https://github.com/cwensel).
 
