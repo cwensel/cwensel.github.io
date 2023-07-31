@@ -14,9 +14,9 @@ Cascading was created by and is still supported and maintained by [Chris K Wense
 
 ### Cascading 4.x
 
-* [4.5](https://github.com/cwensel/cascading/tree/4.5) is the current release Hadoop 3.x stable branch (add Apache Parquet and other integrations)
+* [4.5](https://github.com/cwensel/cascading/tree/4.5) is the current release Hadoop 3.x stable branch (adds Apache Parquet and other integrations)
 * [4.1](https://github.com/cwensel/cascading/tree/4.1) is the current release Hadoop 2.x stable branch
-* [wip-4.6](https://github.com/cwensel/cascading/tree/wip-4.6) is in progress, supports Hadoop 3.x
+* [wip-4.6](https://github.com/cwensel/cascading/tree/wip-4.6) is in progress, supports Hadoop 3.x (adds Apache Parquet enhancements)
 * [wip-4.5](https://github.com/cwensel/cascading/tree/wip-4.5) is in progress, supports Hadoop 3.x
 * [wip-4.1](https://github.com/cwensel/cascading/tree/wip-4.1) is in progress, supports Hadoop 2.x
 
