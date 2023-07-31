@@ -4,9 +4,13 @@ Thanks for using Cascading.
 
 The Cascading project has transitioned from it's old home at [http://www.cascading.org/](http://www.cascading.org/) to here.
 
-For versions 3.x and earlier, please visit the site above.
+For versions 3.x and earlier, please visit the site above (these releases are unsupported).
 
-For versions 4.x and later, remain here.
+For versions 4.x and later, remain here (https://github.com/cwensel/cascading).
+
+Cascading was created by and is still supported and maintained by [https://chris.wensel.net](Chris K Wensel).
+
+[Support this project](https://github.com/cwensel).
 
 ### Cascading 4.x
 
