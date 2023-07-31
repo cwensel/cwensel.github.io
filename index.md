@@ -6,7 +6,7 @@ The Cascading project has transitioned from it's old home at [http://www.cascadi
 
 For versions 3.x and earlier, please visit the site above (these releases are unsupported).
 
-For versions 4.x and later, remain here (https://github.com/cwensel/cascading).
+For versions 4.x and later, remain here ([https://github.com/cwensel/cascading](https://github.com/cwensel/cascading)).
 
 Cascading was created by and is still supported and maintained by [Chris K Wensel](https://chris.wensel.net).
 
